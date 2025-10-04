@@ -6,7 +6,7 @@
   "scripts": {
     "start": "electron .",
     "test": "jest",
-    "build": "electron-builder"
+    "build": "electron-builder --publish never"
   },
   "author": "Your Name",
   "license": "ISC",
